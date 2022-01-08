@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\kacpe\\OneDrive\\SM\\7\\Systemy-Mobilne-Zadanie-7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kacpe\\OneDrive\\SM\\7\\Systemy-Mobilne-Zadanie-7\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "8,7,9,6,4,5,2,3",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "380,323,437,276,170,226,57,115",
+                        "endColumns": "55,55,56,45,54,48,56,53",
+                        "endOffsets": "431,374,489,317,220,270,109,164"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,167,224,270,325,374,431",
+                        "endColumns": "55,55,56,45,54,48,56,53",
+                        "endOffsets": "106,162,219,265,320,369,426,480"
+                    }
+                }
+            ]
+        }
+    ]
+}

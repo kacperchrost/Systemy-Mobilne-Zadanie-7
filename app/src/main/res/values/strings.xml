@@ -1,0 +1,10 @@
+<resources>
+    <string name="task_name_hint">Wprowadź nazwę</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Wykonane</string>
+    <string name="task_add">Nowe zadanie</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">%1$d zadań</string>
+</resources>

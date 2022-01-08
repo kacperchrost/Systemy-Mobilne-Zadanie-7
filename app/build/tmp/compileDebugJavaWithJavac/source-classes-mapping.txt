@@ -1,0 +1,20 @@
+com/example/a7/TaskListFragment.java
+ com.example.a7.TaskListFragment
+ com.example.a7.TaskListFragment$TaskAdapter
+ com.example.a7.TaskListFragment$TaskHolder
+com/example/a7/Task.java
+ com.example.a7.Task
+com/example/a7/TaskStorage.java
+ com.example.a7.TaskStorage
+com/example/a7/BuildConfig.java
+ com.example.a7.BuildConfig
+com/example/a7/SingleFragmentActivity.java
+ com.example.a7.SingleFragmentActivity
+com/example/a7/TaskFragment.java
+ com.example.a7.TaskFragment
+ com.example.a7.TaskFragment$1
+ com.example.a7.TaskFragment$2
+com/example/a7/TaskListActivity.java
+ com.example.a7.TaskListActivity
+com/example/a7/MainActivity.java
+ com.example.a7.MainActivity

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="task_name_hint">Set task name</string>
+    <string name="task_name_label">Task name</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_done_label">Done</string>
+    <string name="task_add">New Task</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide subtitle</string>
+    <string name="subtitle_format">%1$d task(s)</string>
+</resources>
